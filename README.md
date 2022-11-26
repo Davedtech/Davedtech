@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on zoom
 - 🤔 I’m looking for help with ways of breaking into the cloud space as a devops engineer.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me:Linkedin - @[https://www.linkedin.com/in/david-agbe/overlay/contact-info/#:~:text=linkedin.com/in/david%2Dagbe](url)
+- 📫 How to reach me:Linkedin - @[https://www.linkedin.com/in/david-agbe](url)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love soccer,afro-beat music and love to pose in front of the camera.
 
