@@ -1,6 +1,6 @@
 ### Hello,I'm David Agbe 👋
 
-![Devops!]("C:\Users\Evangelist David\Downloads\DevOpsEngineerSalary.gif")
+![Devops](devops image.png)
 
 - 🔭 I’m currently working on Devops project!
 - 🌱 I’m currently learning Devops tools and also python.
